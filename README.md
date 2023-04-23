@@ -16,3 +16,8 @@ Video & Graphics:
 ![image](https://user-images.githubusercontent.com/110115707/233871850-ee89a1d7-a295-4895-ab78-583eb97ad66e.png)
 ![image](https://user-images.githubusercontent.com/110115707/233871883-5c5b699f-f7e1-4ed0-a21c-e4ee6efc2440.png)
 ![image](https://user-images.githubusercontent.com/110115707/233871902-3d70c63a-a465-4a06-9179-75ec499b0bba.png)
+![image](https://user-images.githubusercontent.com/110115707/233872035-c1e88f2d-0805-41fd-9ce9-f7e09255ae54.png)
+
+Language & Accessibility:
+
+![image](https://user-images.githubusercontent.com/110115707/233872113-5094c039-85ce-4958-9046-3c66b6ed6cc3.png)
