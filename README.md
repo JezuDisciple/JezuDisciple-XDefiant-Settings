@@ -13,4 +13,4 @@ Audio & Voice Chat:
 
 Video & Graphics:
 
-![image](https://user-images.githubusercontent.com/110115707/233871820-93867bf0-0a56-4723-b413-8b0acb3a0dc8.png)
+![image](https://user-images.githubusercontent.com/110115707/233871850-ee89a1d7-a295-4895-ab78-583eb97ad66e.png)
